@@ -1,10 +1,11 @@
-import React from 'react'
+import React from 'react';
+import { Container } from '../styles/center';
 
 const Gmail = () => {
     return (
-        <div>
+        <Container>
              <h1>Gmail</h1>
-        </div>
+        </Container>
     )
 }
 
