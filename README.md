@@ -12,7 +12,7 @@
 
   ##                              ***Interface***
 
-![](/home/elaine/Imagens/google.png)
+![](https://raw.githubusercontent.com/ElaineMoreira/clone_google_homepage/main/src/images/google_interface.png)
 
 
 
