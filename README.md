@@ -1,4 +1,12 @@
-clone_homepage_google
+# Clone_Homepage_Google
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+=====================================================
+
+## Tecnologias Utilizadas
+
+- ### React;
+
+- ### Styled components
+
+======================================================
+# clone_google_homepage
